@@ -15,3 +15,6 @@
    <img src="https://img.shields.io/badge/Mongo DB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp 
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
 <p>
+
+🌈 https://velog.io/@6mn12j
+🌈 https://www.notion.so/71cc3d83298741c59f9cd0bd9f71bdbd?v=5f5875e58eba4c8c95af3dd616300bb0 
