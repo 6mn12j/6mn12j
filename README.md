@@ -1,5 +1,5 @@
 # 6mn12j
-![header](https://capsule-render.vercel.app/api?type=slice&color=75bde0&height=300&section=header&text=6mn12j&fontSize=90&fontColor=363636&fontAlignY=40)
+
 
 <h1 align="center">🛠 Used stack 🛠</p>
 <p align="center">
